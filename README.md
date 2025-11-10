@@ -9,6 +9,12 @@ This project implements **Task 1** of the assignment:
 
 ---
 
+## Architecture
+
+<p align="center"> <img src="https://github.com/Yaswanth-3107/Soulpage-genai-assignment-MYaswanth_task1/blob/main/architecture.png" width="80%" /> </p>
+
+
+
 ## ✅ Features
 
 ### ✅ Two-Agent Architecture
