@@ -124,7 +124,9 @@ Examples:
 
 <p align="center"> <img src="https://github.com/Yaswanth-3107/Soulpage-genai-assignment-MYaswanth_task1/blob/main/images/Screenshot%202025-11-10%20110125.png" width="80%" /> </p>
 
-<p align="center"> <img src=" https://github.com/Yaswanth-3107/Soulpage-genai-assignment-MYaswanth_task1/blob/main/images/Screenshot%202025-11-10%20110238.png" width="80%" /> </p>
+- Change Company Name
+
+<p align="center"> <img src="https://github.com/Yaswanth-3107/Soulpage-genai-assignment-MYaswanth_task1/blob/main/images/Screenshot%202025-11-10%20110238.png" width="80%" /> </p>
 
 The multi-agent system produces:
 
