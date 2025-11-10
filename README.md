@@ -73,7 +73,7 @@ project/
 
 ### 1) Clone repo & create virtual env
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Yaswanth-3107/Soulpage-genai-assignment-MYaswanth_task1.git
 cd project
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
