@@ -1,0 +1,15 @@
+langchain==0.2.16
+langgraph==0.2.26
+langchain-openai==0.1.22
+langchain-community==0.2.16
+langchain-groq==0.1.5
+groq==0.13.1
+pydantic==2.9.2
+python-dotenv==1.0.1
+duckduckgo-search==6.3.5
+wikipedia==1.4.0
+yfinance==0.2.43
+pandas==2.2.3
+tqdm==4.66.5
+streamlit==1.39.0
+uvicorn==0.30.6
