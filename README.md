@@ -117,8 +117,15 @@ Examples:
 > For Indian stocks:  
 > NSE tickers end with `.NS`  
 > BSE tickers end with `.BO`
+>
+> <p align="center"> <img src="https://github.com/Yaswanth-3107/Soulpage-genai-assignment-MYaswanth_task1/blob/main/images/Screenshot%202025-11-10%20110028.png" width="80%" /> </p>
 
 ### ✅ Press **Run Analysis**
+
+-  <p align="center"> <img src="https://github.com/Yaswanth-3107/Soulpage-genai-assignment-MYaswanth_task1/blob/main/images/Screenshot%202025-11-10%20110125.png" width="80%" /> </p>
+
+-   <p align="center"> <img src=" https://github.com/Yaswanth-3107/Soulpage-genai-assignment-MYaswanth_task1/blob/main/images/Screenshot%202025-11-10%20110238.png" width="80%" /> </p>
+
 The multi-agent system produces:
 
 - Price Snapshot  
@@ -156,6 +163,10 @@ The UI handles this safely (shows `None` and proceeds).
 - Ability to integrate **external tools** for data collection
 - End-to-end **Streamlit application**
 - **Robust and production-friendly** error handling
+
+
+
+
 
 ---
 
